@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/VitaliiMelnychukDev/nutrition-server/issues"
   },
-  "homepage": "https://github.com/VitaliiMelnychukDev/nutrition-server#readme"
+  "homepage": "https://github.com/VitaliiMelnychukDev/nutrition-server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.1"
+  }
 }
