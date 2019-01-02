@@ -1,0 +1,22 @@
+{
+  "name": "nutritional_value_calculator",
+  "version": "1.0.0",
+  "description": "You can count your dayly ration nutrition value",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaliiMelnychukDev/nutrition-server.git"
+  },
+  "keywords": [
+    "nutrition"
+  ],
+  "author": "Vitalii Melnychuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VitaliiMelnychukDev/nutrition-server/issues"
+  },
+  "homepage": "https://github.com/VitaliiMelnychukDev/nutrition-server#readme"
+}
