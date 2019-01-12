@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/VitaliiMelnychukDev/nutrition-server#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "mongoose": "^5.4.1"
+    "mongoose": "^5.4.1",
+    "radium": "^0.25.1"
   }
 }
