@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+const mongoose = require('./helpers/mongo-connect');
 const productRouter = require('./routes/product');
 const bodyParser = require('body-parser');
 const logger = require('./middlware/logger');
